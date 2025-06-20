@@ -1,0 +1,21 @@
+/*body{
+    background-color: rgb(176, 247, 247);
+}
+/* id, class name,tag name
+
+h1{
+    background-color:antiquewhite;
+    color: rgb(230, 26, 26);
+}
+.h1{
+    background-color: rgb(230, 21, 230);
+    color: darkgrey;
+}
+#no{
+   background-color: black; 
+   color: aliceblue;
+}
+#first{
+    background-color: blueviolet;
+    color: brown;
+}
